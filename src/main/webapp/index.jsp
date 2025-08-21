@@ -8,7 +8,7 @@
   
   <h3> Linkdien : Follow us  : www.linkedin.com/in/mohammed-aseem-akram  </h3>
 
-  <h4> Subscribe & Share the Channel gfgv </h4>
+  <h4> Subscribe & Share the Channel</h4>
 
   <h5> https://github.com/Aseemakram19  <h5> 
 
